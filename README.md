@@ -6,22 +6,26 @@
 ```bash
 git clone https://github.com/razanEmad/Project-and-Task-Manager-BackEnd.git
 cd project_manager
+```
 
 ### 2. Install Dependencies
 
 Before running the project, you need to install all required packages.
 ```bash
 npm install
+```
 
 ### 3. Set Up Environment Variables
 Create a .env file in the root directory and add the following:
 ```bash
 MONGO_URI=your_mongodb_atlas_connection_string
 PORT=3000
+```
 
 ### 4. Run the Server
 ```bash
 node server.js
+```
 
 # 📡 API Endpoints
 
